@@ -1,5 +1,5 @@
 ---
-name: daily-prep
+name: daily-prep-jko
 description: 'Prepare for meetings and tasks. Pulls calendar from MS365 via MCP Tools, cross-references recent files in onedrive, memories, emails, and workspace context, classifies meetings, detects conflicts and day-fit issues, finds learning and deep-work slots, and generates a structured PDF prep file with productivity recommendations.'
 ---
 
